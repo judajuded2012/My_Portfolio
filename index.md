@@ -14,11 +14,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Quantifiable result:** We could predict the Bike rental demand resulting in [**51%** accuracy](https://github.com/judajuded2012/Linear-Regression-project).
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+- Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
+
 
 ***
 
