@@ -40,7 +40,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Orthopedic Patients Prediction](https://github.com/judajuded2012/Orthopedic-Patient-Prediction)
 
-<img src="images/PB.jpg?raw=true"/>
+<img src="images/OP.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN
 
