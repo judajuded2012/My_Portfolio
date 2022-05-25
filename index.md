@@ -54,6 +54,22 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Fraud Click Prediction](https://github.com/judajuded2012/Talking_Data_DT)
+
+<img src="images/FP.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, XGB, SMOTE
+
+**Project Objective:** Predicting fraud clicks depending on features like clicks, IP Address, time, etc.
+
+**Quantifiable result:** We could Classify whether the click is fraud or genuine [**99.81%** accuracy using XGBClassifier](https://github.com/judajuded2012/Talking_Data_DT).
+
+- Used Bagging & Boosting.
+- Analysed different parameters to classify clicks. 
+- Explored Ensemble technique to Fraud analysis
+
+***
+
 [Hand Written Digits Recognization](https://github.com/judajuded2012/Hand_Writing_Recognation)
 
 <img src="images/HW.png?raw=true"/>
@@ -70,18 +86,3 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Data Source: MNIST
 
 ***
-
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
-
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
-
-**Skills used:** Python, Keras, Tensorflow
-
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
-
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
-
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
